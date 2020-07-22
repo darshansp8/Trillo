@@ -391,7 +391,6 @@
         background-size: cover;
 
         // Newer browsers - masks
-
         @supports (-webkit-mask-image: url()) or (mask-image: url()){
 
             background-color: var(--color-primary);
